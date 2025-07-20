@@ -15,11 +15,11 @@ The dataset is sourced from Inside Airbnb and consists of listings located in Ba
 
 ### File Structure
 
-Dataset/
-├── Airbnb Listings Bangkok.csv # Raw dataset from Inside Airbnb
-├── Airbnb_Bangkok_Cleaned.xlsx # Cleaned and preprocessed version for analysis
-Notebook/
-├── AnalisisAirbnbBangkok.ipynb # Main notebook with full analysis and visualization
+Dataset\
+├── Airbnb Listings Bangkok.csv     # Raw dataset from Inside Airbnb\
+├── Airbnb_Bangkok_Cleaned.xlsx     # Cleaned and preprocessed version for analysis\
+Notebook\
+├── AnalisisAirbnbBangkok.ipynb     # Main notebook with full analysis and visualization
 
 
 ## Key Questions Addressed
